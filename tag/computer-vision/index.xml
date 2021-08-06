@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | Mihir Parmar</title>
+    <link>https://mihirp98.github.io/tag/computer-vision/</link>
+      <atom:link href="https://mihirp98.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mihirp98.github.io/images/icon_hu1c69c7d1a253bfc2b7bb8bb56d82a005_27182_512x512_fill_lanczos_center_2.png</url>
+      <title>Computer Vision</title>
+      <link>https://mihirp98.github.io/tag/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>F1/10 Autonomous Racing</title>
+      <link>https://mihirp98.github.io/project/f110/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mihirp98.github.io/project/f110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Scene Composition for Amodal Instance Segmentation</title>
+      <link>https://mihirp98.github.io/project/522-project/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mihirp98.github.io/project/522-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Filter based RGB-D Tracking for Mobile Robots</title>
+      <link>https://mihirp98.github.io/project/650-project/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mihirp98.github.io/project/650-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Vision</title>
+      <link>https://mihirp98.github.io/project/dl-vision/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://mihirp98.github.io/project/dl-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Tracking using Optical Flow</title>
+      <link>https://mihirp98.github.io/project/optical-flow/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mihirp98.github.io/project/optical-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Mosaicing</title>
+      <link>https://mihirp98.github.io/project/image-stitching/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://mihirp98.github.io/project/image-stitching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
