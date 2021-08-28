@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Mihir Parmar</title>
-    <link>https://mihirp98.github.io/project/</link>
-      <atom:link href="https://mihirp98.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Shantanu Jain</title>
+    <link>https://shantanu-jain-2142.github.io/project/</link>
+      <atom:link href="https://shantanu-jain-2142.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mihirp98.github.io/images/icon_hu1c69c7d1a253bfc2b7bb8bb56d82a005_27182_512x512_fill_lanczos_center_2.png</url>
+      <url>https://shantanu-jain-2142.github.io/images/icon_hu1c69c7d1a253bfc2b7bb8bb56d82a005_27182_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://mihirp98.github.io/project/</link>
+      <link>https://shantanu-jain-2142.github.io/project/</link>
     </image>
     
     <item>
       <title>F1/10 Autonomous Racing</title>
-      <link>https://mihirp98.github.io/project/f110/</link>
+      <link>https://shantanu-jain-2142.github.io/project/f110/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/f110/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/f110/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Controller for multi-agent Autonomous Racing</title>
-      <link>https://mihirp98.github.io/project/615-project/</link>
+      <link>https://shantanu-jain-2142.github.io/project/615-project/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/615-project/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/615-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Scene Composition for Amodal Instance Segmentation</title>
-      <link>https://mihirp98.github.io/project/522-project/</link>
+      <link>https://shantanu-jain-2142.github.io/project/522-project/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/522-project/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/522-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Particle Filter based RGB-D Tracking for Mobile Robots</title>
-      <link>https://mihirp98.github.io/project/650-project/</link>
+      <link>https://shantanu-jain-2142.github.io/project/650-project/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/650-project/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/650-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning for Vision</title>
-      <link>https://mihirp98.github.io/project/dl-vision/</link>
+      <link>https://shantanu-jain-2142.github.io/project/dl-vision/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/dl-vision/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/dl-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLAM for THOR-OP humanoid robot</title>
-      <link>https://mihirp98.github.io/project/slam/</link>
+      <link>https://shantanu-jain-2142.github.io/project/slam/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/slam/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/slam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quaternion-based Unscented Kalman Filter for Orientation Tracking</title>
-      <link>https://mihirp98.github.io/project/tracking/</link>
+      <link>https://shantanu-jain-2142.github.io/project/tracking/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/tracking/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/tracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequential Models for Text Classification and Generation</title>
-      <link>https://mihirp98.github.io/project/dl-nlp/</link>
+      <link>https://shantanu-jain-2142.github.io/project/dl-nlp/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/dl-nlp/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/dl-nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Object Tracking using Optical Flow</title>
-      <link>https://mihirp98.github.io/project/optical-flow/</link>
+      <link>https://shantanu-jain-2142.github.io/project/optical-flow/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/optical-flow/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/optical-flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yelp Review Rating Prediction</title>
-      <link>https://mihirp98.github.io/project/520-project/</link>
+      <link>https://shantanu-jain-2142.github.io/project/520-project/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/520-project/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/520-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Mosaicing</title>
-      <link>https://mihirp98.github.io/project/image-stitching/</link>
+      <link>https://shantanu-jain-2142.github.io/project/image-stitching/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://mihirp98.github.io/project/image-stitching/</guid>
+      <guid>https://shantanu-jain-2142.github.io/project/image-stitching/</guid>
       <description></description>
     </item>
     
